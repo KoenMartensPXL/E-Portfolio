@@ -4,7 +4,7 @@
     <label for="check" class="checkbtn">
       <i class="fa-solid fa-bars"></i>
     </label>
-    <img src="../images/LogoPortfolio.png">
+<!--    <img src="../images/LogoPortfolio.png">-->
     <label class="logo">E-Portfolio</label>
     <ul>
       <li><a href="#">About</a></li>
